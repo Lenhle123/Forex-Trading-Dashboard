@@ -1,6 +1,6 @@
 # 📊 Professional Forex Trading Dashboard
 
-A sophisticated React-based financial trading interface featuring real-time exchange rate monitoring, AI-powered forecasting, and professional market analysis tools.
+A sophisticated React-based financial trading interface featuring real-time exchange rate monitoring, AI-powered forecasting, and professional market analysis tools. Website link Professional Forex Dashboard
 
 ## 🎯 Key Features
 
